@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 
 
-TOKEN = '8035562733:AAGGbv464AOa9jQHuWg5IKHB-a-YW-HM4a0'
+TOKEN = ''
 bot = telebot.TeleBot(TOKEN)
 
 # Словарь с расписаниями. Ключ - класс, затем день недели
